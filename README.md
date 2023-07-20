@@ -1,1 +1,0 @@
-# django-social-media-project
